@@ -23,6 +23,45 @@
         <img slot="item-icon-active" src="../..//assets/img/tabbar/nav_icon_05.png" />
         <div slot="item-text">我的</div>
       </tab-bar-item>
+
+      <tab-bar-item path="/profile" activeColor="blue">
+        <img slot="item-icon" src="../../assets/img/tabbar/nav_icon_04.png" />
+        <img slot="item-icon-active" src="../..//assets/img/tabbar/nav_icon_05.png" />
+        <div slot="item-text">我的1</div>
+      </tab-bar-item>
+
+      <tab-bar-item path="/profile" activeColor="blue">
+        <img slot="item-icon" src="../../assets/img/tabbar/nav_icon_04.png" />
+        <img slot="item-icon-active" src="../..//assets/img/tabbar/nav_icon_05.png" />
+        <div slot="item-text">我的2</div>
+      </tab-bar-item>
+
+      <tab-bar-item path="/profile" activeColor="blue">
+        <img slot="item-icon" src="../../assets/img/tabbar/nav_icon_04.png" />
+        <img slot="item-icon-active" src="../..//assets/img/tabbar/nav_icon_05.png" />
+        <div slot="item-text">我的3</div>
+      </tab-bar-item>
+
+      <tab-bar-item path="/profile" activeColor="blue">
+        <img slot="item-icon" src="../../assets/img/tabbar/nav_icon_04.png" />
+        <img slot="item-icon-active" src="../..//assets/img/tabbar/nav_icon_05.png" />
+        <div slot="item-text">我的3</div>
+      </tab-bar-item>
+      <tab-bar-item path="/profile" activeColor="blue">
+        <img slot="item-icon" src="../../assets/img/tabbar/nav_icon_04.png" />
+        <img slot="item-icon-active" src="../..//assets/img/tabbar/nav_icon_05.png" />
+        <div slot="item-text">我的3</div>
+      </tab-bar-item>
+      <tab-bar-item path="/profile" activeColor="blue">
+        <img slot="item-icon" src="../../assets/img/tabbar/nav_icon_04.png" />
+        <img slot="item-icon-active" src="../..//assets/img/tabbar/nav_icon_05.png" />
+        <div slot="item-text">我的3</div>
+      </tab-bar-item>
+      <tab-bar-item path="/profile" activeColor="blue">
+        <img slot="item-icon" src="../../assets/img/tabbar/nav_icon_04.png" />
+        <img slot="item-icon-active" src="../..//assets/img/tabbar/nav_icon_05.png" />
+        <div slot="item-text">我的3</div>
+      </tab-bar-item>
     </tab-bar>
   </div>
 </template>
@@ -46,4 +85,10 @@ export default {
 };
 </script>
 <style  scoped>
+img {
+  width: 24px;
+  height: 24px;
+  margin-top: 3px;
+  /* vertical-align: middle; */
+}
 </style>

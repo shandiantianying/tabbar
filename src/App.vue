@@ -1,11 +1,11 @@
 <template>
   <div id="app">
-    <main-tab-bar></main-tab-bar>
+    <!-- <main-tab-bar></main-tab-bar>
     <h2>{{$store.state.counter}}</h2>
     <button @click="addition">+</button>
     <button @click="subition">-</button>
       <button @click="add(5)">+5</button>
-    <button @click="add(10)">+10</button>
+    <button @click="add(10)">+10</button> -->
     <router-view />
   </div>
 </template>
