@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <!-- <main-tab-bar></main-tab-bar>
+    <!--   在dev上修改代码 ，<main-tab-bar></main-tab-bar>
     <h2>{{$store.state.counter}}</h2>
     <button @click="addition">+</button>
     <button @click="subition">-</button>
